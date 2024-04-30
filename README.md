@@ -1,8 +1,8 @@
 ### Hello !
 ------------------------------------------------------------------------------
 I am Jose Perdomo
-
-First-Gen CS student | 🇭🇳 → 🇺🇸
-Passionate about Blockchain & AI (since 2020)
-Building a balanced life with code, friends, & fitness
-Looking to contribute to innovative projects in CS. Let's connect!
+'\n'
+First-Gen CS student | 🇭🇳 → 🇺🇸'\n'
+Passionate about Blockchain & AI (since 2020) '\n'
+Building a balanced life with code, friends, & fitness'\n'
+Looking to contribute to innovative projects in CS. Let's connect!'\n'
