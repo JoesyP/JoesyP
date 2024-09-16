@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello !<br>I am Jose Perdomo<br><br>First-Gen CS student | 🇭🇳 → 🇺🇸<br><br>Passionate about Blockchain & Cyber Security<br><br>Building a balanced life with  friends, God, and fitness<br><br>Current Bachlors of Science student @UTSA Focusing on Data Science, and Software Engineering!<br><br>Feel free to look around, Let's connect!
+<br>Hello !<br>I am Jose Perdomo<br><br>First-Gen CS student | 🇭🇳 → 🇺🇸<br><br>Passionate about Blockchain & Software Engineering <br><br>Building a balanced life with  friends, God, and fitness<br><br>Current Bachlors of Science student @UTSA Focusing on Data Science, and Software Engineering!<br><br>Feel free to look around, Let's connect!
 
 
 ## 🌐 Socials:
