@@ -23,25 +23,8 @@
 
 ## Who I am
 
-First-gen CS grad. I build software that works in production — not just in demos.
-
-By day I'm joining **BNY Mellon** (Bank of New York Mellon) full-time as a software engineer, returning after a 2025 internship where I shipped Angular dashboards and Flask APIs for enterprise financial tools in a microfrontend architecture.
-
-On the side I run **[jose.dev](https://josedev.app)** — a small studio where I design and build custom websites and web systems for local businesses around Houston. No templates. No lock-in. Owners get a self-managed dashboard and own their own code. I do everything end to end: design → build → deploy → support.
-
+First-gen CS grad. By day I'm joining **BNY** (Bank of New York) full-time as a software engineer, returning after a 2025 internship where I shipped Angular dashboards and Flask APIs for enterprise financial tools in a microfrontend architecture.
 I'm bilingual (EN/ES), I learn by shipping, and I bias toward building real things over studying them.
-
----
-
-## What I'm building
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🤖 **AI Business OS** | Five autonomous Python agents that run a web agency end to end — lead gen, sales pipeline, finance tracking, strategy, all wired to a live Next.js dashboard | Python · asyncio · Claude API · Next.js · Supabase |
-| 🃏 **Dog House Poker Club** | Full custom system for an established Houston poker and dining club — public site + booking, promotions, and membership admin dashboard | Next.js 15 · Supabase · Stripe · TypeScript |
-| 🛍️ **Etsy & Pinterest Automation** | Multi-agent pipeline that generates digital products, writes listing copy, publishes pins, and handles delivery — fully autonomous | Python · Claude API · Pinterest API · Etsy API · Gumroad |
-| 🏦 **Frost Bank AI Agent System** | Senior capstone — multi-agent RAG system for natural-language queries over a database, built with Frost Bank engineers | Python · RAG · Vector Embeddings · LLM APIs |
-| 🔮 **Sorcerer's Supply** | Ecommerce build for a niche retail client | Next.js · Firebase |
 
 ---
 
@@ -80,18 +63,6 @@ I'm bilingual (EN/ES), I learn by shipping, and I bias toward building real thin
 ![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/AI%20Agents-black?style=flat-square&logoColor=white)
-
----
-
-## Background
-
-```
-B.S. Computer Science — UTSA, May 2026        GPA: 3.8
-Concentrations: Software Engineering · Data Science
-
-SWE Intern → SWE Full-Time @ BNY Mellon       2025 → Aug 2026
-Founder @ jose.dev (Freelance)                 Present
-```
 
 ---
 
